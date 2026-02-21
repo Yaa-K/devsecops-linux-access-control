@@ -106,8 +106,6 @@ Core utilities used: `useradd`, `adduser`, `userdel`, `usermod`, `groupadd`, `pa
 
 ## Reflection
 
-Read the full reflection post on DEV.to: [I Thought I Knew Linux. This Lab Proved Me Wrong.](#) *(update link)*
+Read the full reflection post on DEV.to: [I Thought I Knew Linux. This Lab Proved Me Wrong.](https://dev.to/yaak/i-thought-i-knew-linux-this-lab-proved-me-wrong-2ljp) *(update link)*
 
----
 
-*ParoCyber DevSecOps Bootcamp | Assignment 1 | 2026*
