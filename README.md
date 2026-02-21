@@ -1,7 +1,7 @@
 # Linux User & Access Control – DevSecOps Practical Assessment
 
 **Assignment 1 | ParoCyber DevSecOps Bootcamp**  
-**Reflection Post:** [DEV.to – I Thought I Knew Linux. This Lab Proved Me Wrong.](https://dev.to/yaak/i-thought-i-knew-linux-this-lab-proved-me-wrong-2ljp) *(update link after publishing)*
+**Reflection Post:** [DEV.to – I Thought I Knew Linux. This Lab Proved Me Wrong.](https://dev.to/yaak/i-thought-i-knew-linux-this-lab-proved-me-wrong-2ljp) 
 
 ---
 
