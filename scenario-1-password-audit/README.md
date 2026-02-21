@@ -5,7 +5,6 @@
 During a routine security audit, the Security Director asks:
 > *"Show me how you identify users on this system who do not have passwords set, and then demonstrate how you would remediate one."*
 
-The location of the relevant system file was not provided. Discovery was part of the task.
 
 ---
 
