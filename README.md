@@ -22,36 +22,9 @@ All tasks were performed entirely in the Linux terminal, captured with screensho
 │
 ├── scenario-1-password-audit/
 │   ├── README.md                    ← Full write-up for Scenario 1
-│   └── screenshots/
-│       ├── 1A-1_useradd_command.png
-│       ├── 1A-2_user_exists_passwd.png
-│       ├── 1B-1_shadow_inspection.png
-│       ├── 1B-2_filtered_grep_no_password.png
-│       ├── 1B-3_normal_user_permission_denied.png
-│       ├── 1C-1_before_no_password.png
-│       ├── 1C-2_passwd_command.png
-│       └── 1C-3_after_password_set.png
 │
 └── scenario-2-user-access-config/
     ├── README.md                    ← Full write-up for Scenario 2
-    └── screenshots/
-        ├── 2-1_useradd_users.png
-        ├── 2-2_adduser_aminat.png
-        ├── 2-3_ci_runner_nologin.png
-        ├── 2-4_groupadd_departments.png
-        ├── 2-5_usermod_assignments.png
-        ├── 2-6_getent_group_verification.png
-        ├── 2-7_before_no_password.png
-        ├── 2-8_passwd_command.png
-        ├── 2-9_after_password_set.png
-        ├── 2-10_ci_runner_passwd_entry.png
-        ├── 2-11_ci_runner_login_denied.png
-        ├── 2-12_usermod_sudo_alex.png
-        ├── 2-13_alex_sudo_confirmed.png
-        ├── 2-14_aminat_no_sudo.png
-        ├── 2-15_userdel_yaa.png
-        ├── 2-16_yaa_removed_passwd.png
-        └── 2-17_home_directory_preserved.png
 ```
 
 ---
