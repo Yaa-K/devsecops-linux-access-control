@@ -1,4 +1,4 @@
-<img width="1366" height="720" alt="Screenshot 2-14 sudo -l -U aminat showing NO sudo access" src="https://github.com/user-attachments/assets/c95f9a30-2653-4589-9d8f-f42d696cd3b0" /># Scenario 2 – DevSecOps User & Department Access Configuration
+# Scenario 2 – DevSecOps User & Department Access Configuration
 
 ## Context
 
